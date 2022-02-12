@@ -1,0 +1,23 @@
+D:\VS Projects\Chat Smasher Rewritten\bin\Release\Chat Smasher Rewritten.exe.config
+D:\VS Projects\Chat Smasher Rewritten\bin\Release\Chat Smasher Rewritten.exe
+D:\VS Projects\Chat Smasher Rewritten\bin\Release\Chat Smasher Rewritten.pdb
+D:\VS Projects\Chat Smasher Rewritten\bin\Release\Siticone.UI.dll
+D:\VS Projects\Chat Smasher Rewritten\obj\Release\Chat_Smasher_Rewritten.Form1.resources
+D:\VS Projects\Chat Smasher Rewritten\obj\Release\Chat_Smasher_Rewritten.Properties.Resources.resources
+D:\VS Projects\Chat Smasher Rewritten\obj\Release\Chat Smasher Rewritten.csproj.GenerateResource.cache
+D:\VS Projects\Chat Smasher Rewritten\obj\Release\Chat Smasher Rewritten.csproj.CoreCompileInputs.cache
+D:\VS Projects\Chat Smasher Rewritten\obj\Release\Chat Smasher Rewritten.csproj.CopyComplete
+D:\VS Projects\Chat Smasher Rewritten\obj\Release\Chat Smasher Rewritten.exe
+D:\VS Projects\Chat Smasher Rewritten\obj\Release\Chat Smasher Rewritten.pdb
+C:\Users\Joe\Desktop\Chat Smasher Rewritten\bin\Release\Chat Smasher Rewritten.exe.config
+C:\Users\Joe\Desktop\Chat Smasher Rewritten\bin\Release\Chat Smasher Rewritten.exe
+C:\Users\Joe\Desktop\Chat Smasher Rewritten\bin\Release\Chat Smasher Rewritten.pdb
+C:\Users\Joe\Desktop\Chat Smasher Rewritten\obj\Release\Chat Smasher Rewritten.csproj.AssemblyReference.cache
+C:\Users\Joe\Desktop\Chat Smasher Rewritten\obj\Release\Chat Smasher Rewritten.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joe\Desktop\Chat Smasher Rewritten\obj\Release\Chat_Smasher_Rewritten.Form1.resources
+C:\Users\Joe\Desktop\Chat Smasher Rewritten\obj\Release\Chat_Smasher_Rewritten.Properties.Resources.resources
+C:\Users\Joe\Desktop\Chat Smasher Rewritten\obj\Release\Chat Smasher Rewritten.csproj.GenerateResource.cache
+C:\Users\Joe\Desktop\Chat Smasher Rewritten\obj\Release\Chat Smasher Rewritten.csproj.CoreCompileInputs.cache
+C:\Users\Joe\Desktop\Chat Smasher Rewritten\obj\Release\Chat Smasher Rewritten.csproj.CopyComplete
+C:\Users\Joe\Desktop\Chat Smasher Rewritten\obj\Release\Chat Smasher Rewritten.exe
+C:\Users\Joe\Desktop\Chat Smasher Rewritten\obj\Release\Chat Smasher Rewritten.pdb
