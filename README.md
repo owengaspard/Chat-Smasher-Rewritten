@@ -12,7 +12,7 @@ You can either download the pre-compiled version from the `Releases` tab, or you
 If you actually need this, you probably should not mess with the soruce code.  When you download the source code, open the `.sln` file using your desired version of Visual Studio (Do **NOT** use VS Code).  You can choose at the top toolbar to compile and run in debug or release mode.  I suggest debug mode because it allows you to have metrics on the computer's performance.
 
 ## Contributions
-- [RylanMage](https://github.com/RylanMage) - Rylan is the original author of the Chat Smasher project.  While we worked on the original version of Chat Smasher together, I rewrote and redesigned the program from the ground-up because I found the original to be clunky and slow.  Rylan was the reason why I decided to learn C# and has been an inspiration for wanting to learn even more languages than I knew at the time.  Thanks, Rylan.
+- [Ryl4n](https://github.com/Ryl4n) - Rylan is the original author of the Chat Smasher project.  While we worked on the original version of Chat Smasher together, I rewrote and redesigned the program from the ground-up because I found the original to be clunky and slow.  Rylan was the reason why I decided to learn C# and has been an inspiration for wanting to learn even more languages than I knew at the time.  Thanks, Rylan.
 
 ## The licensing
 This project is licensed under the Apache License 2.0.  In layman's terms, this license states that one may do whatever they want with the project as long as they:
